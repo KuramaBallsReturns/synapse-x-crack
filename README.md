@@ -2,8 +2,6 @@
 
 ## NOT patched
 
-## Password to extract files: sp3dy
-
 ## How to use? 
 
 1. Download this repository by clicking on CODE > DOWNLOAD ZIP
