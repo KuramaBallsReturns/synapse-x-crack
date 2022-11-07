@@ -10,9 +10,9 @@
 
 3. Open the folder you extracted.
 
-4. Click on readme.txt and follow the instructions
+4. after that open Synapse Launcher.exe file
 
-5. At last just open Synapse Launcher.exe and enjoy exploiting.
+5. and start exploiting. also please star the github project if you enjoy my crack.
 
 
 ## DISCLAIMER: 
